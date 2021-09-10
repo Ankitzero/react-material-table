@@ -25,7 +25,7 @@ function App() {
   }, []);
   return (
     <div>
-      <h1 className="heading">React Material</h1>
+      <h1 className="heading">React Material Table</h1>
       <p className="heading">CRUD Operation</p>
       <MaterialTable
         title="Users Table"
